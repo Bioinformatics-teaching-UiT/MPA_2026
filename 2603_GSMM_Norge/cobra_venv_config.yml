@@ -1,0 +1,13 @@
+name: cobra_course
+dependencies:
+    - python=3.11
+    - pip
+    - glpk
+    - swig
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - jupyter
+    - pip:
+        - cobra[array]
