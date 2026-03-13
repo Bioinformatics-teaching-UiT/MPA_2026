@@ -27,7 +27,7 @@ Verify your installation by running e.g. “conda info” in your command line w
 
 In principle, we will follow the instructions as described here: [https://github.com/opencobra/cobrapy/blob/devel/INSTALL.rst](https://github.com/opencobra/cobrapy/blob/devel/INSTALL.rst).
 
-Download the yml file ''cobra_course_config.yml'' for the **conda virtual environment** we will be using throughout this course. You may review the packages we use by opening the yml file with a simple text editor (e.g. editor in Windows). More information on the yml file format e.g. on wikipedia: [https://en.wikipedia.org/wiki/YAML](https://en.wikipedia.org/wiki/YAML)
+Download the yml file ''cobra_venv_config.yml'' for the **conda virtual environment** we will be using throughout this course. You may review the packages we use by opening the yml file with a simple text editor (e.g. editor in Windows). More information on the yml file format e.g. on wikipedia: [https://en.wikipedia.org/wiki/YAML](https://en.wikipedia.org/wiki/YAML)
 
 Install and setup cobrapy, the python version of the COBRA toolbox, by running 
 
